@@ -16,6 +16,7 @@ This app isn’t just functional—it’s a visual delight! With a **mind-blowin
 To test this amazing app:
 1. Clone the repository.
 2. Run the following command:
+   ```bash
    docker-compose up --build
    ```
 3. Enjoy the magic! ✨
